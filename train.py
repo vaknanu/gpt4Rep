@@ -3,4 +3,4 @@ import torch.nn as nn
 
 class Qwin:
     def __init__(self):
-        super.__init__()
+        pass
