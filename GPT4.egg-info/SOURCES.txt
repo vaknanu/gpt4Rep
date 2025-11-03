@@ -1,0 +1,5 @@
+setup.py
+GPT4.egg-info/PKG-INFO
+GPT4.egg-info/SOURCES.txt
+GPT4.egg-info/dependency_links.txt
+GPT4.egg-info/top_level.txt
