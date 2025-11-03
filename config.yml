@@ -1,0 +1,17 @@
+# Config file
+project_name: "Generative Models"
+version: 1.0
+release_date: 2025-10-27
+authors:
+ - name: "N"
+   email: "n@y.com"
+   role: "main_author"
+ - name : "A"
+   email: "a@y.com"
+   role : "co-authors"
+ - {name: "S", email: "D", "role: "co-authors"}
+  
+models: 
+ - GPT4
+ - lLmma
+libraries: ["huggingface", "langchain"]
